@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D78F197-1264-4F1F-876D-D8D5038B9748}|SmartphoneDefects\\SmartphoneDefects.csproj|c:\\users\\loldi\\source\\repos\\smartphonedefects\\smartphonedefects\\formconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D78F197-1264-4F1F-876D-D8D5038B9748}|SmartphoneDefects\\SmartphoneDefects.csproj|solutionrelative:smartphonedefects\\formconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D78F197-1264-4F1F-876D-D8D5038B9748}|SmartphoneDefects\\SmartphoneDefects.csproj|C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\smartphonedefects\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D78F197-1264-4F1F-876D-D8D5038B9748}|SmartphoneDefects\\SmartphoneDefects.csproj|solutionrelative:smartphonedefects\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D78F197-1264-4F1F-876D-D8D5038B9748}|SmartphoneDefects\\SmartphoneDefects.csproj|C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\smartphonedefects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D78F197-1264-4F1F-876D-D8D5038B9748}|SmartphoneDefects\\SmartphoneDefects.csproj|solutionrelative:smartphonedefects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D78F197-1264-4F1F-876D-D8D5038B9748}|SmartphoneDefects\\SmartphoneDefects.csproj|C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\smartphonedefects\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D78F197-1264-4F1F-876D-D8D5038B9748}|SmartphoneDefects\\SmartphoneDefects.csproj|solutionrelative:smartphonedefects\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D78F197-1264-4F1F-876D-D8D5038B9748}|SmartphoneDefects\\SmartphoneDefects.csproj|C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\smartphonedefects\\formdefects.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D78F197-1264-4F1F-876D-D8D5038B9748}|SmartphoneDefects\\SmartphoneDefects.csproj|solutionrelative:smartphonedefects\\formdefects.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D78F197-1264-4F1F-876D-D8D5038B9748}|SmartphoneDefects\\SmartphoneDefects.csproj|C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\smartphonedefects\\formconnection.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D78F197-1264-4F1F-876D-D8D5038B9748}|SmartphoneDefects\\SmartphoneDefects.csproj|solutionrelative:smartphonedefects\\formconnection.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D78F197-1264-4F1F-876D-D8D5038B9748}|SmartphoneDefects\\SmartphoneDefects.csproj|C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\smartphonedefects\\formconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D78F197-1264-4F1F-876D-D8D5038B9748}|SmartphoneDefects\\SmartphoneDefects.csproj|solutionrelative:smartphonedefects\\formconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D78F197-1264-4F1F-876D-D8D5038B9748}|SmartphoneDefects\\SmartphoneDefects.csproj|C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\smartphonedefects\\formdefects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D78F197-1264-4F1F-876D-D8D5038B9748}|SmartphoneDefects\\SmartphoneDefects.csproj|solutionrelative:smartphonedefects\\formdefects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D78F197-1264-4F1F-876D-D8D5038B9748}|SmartphoneDefects\\SmartphoneDefects.csproj|C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\smartphonedefects\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D78F197-1264-4F1F-876D-D8D5038B9748}|SmartphoneDefects\\SmartphoneDefects.csproj|solutionrelative:smartphonedefects\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D78F197-1264-4F1F-876D-D8D5038B9748}|SmartphoneDefects\\SmartphoneDefects.csproj|C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\smartphonedefects\\formdefects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D78F197-1264-4F1F-876D-D8D5038B9748}|SmartphoneDefects\\SmartphoneDefects.csproj|solutionrelative:smartphonedefects\\formdefects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D78F197-1264-4F1F-876D-D8D5038B9748}|SmartphoneDefects\\SmartphoneDefects.csproj|C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\smartphonedefects\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D78F197-1264-4F1F-876D-D8D5038B9748}|SmartphoneDefects\\SmartphoneDefects.csproj|solutionrelative:smartphonedefects\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 309,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormDefects.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\SmartphoneDefects\\FormDefects.Designer.cs",
+              "RelativeDocumentMoniker": "SmartphoneDefects\\FormDefects.Designer.cs",
+              "ToolTip": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\SmartphoneDefects\\FormDefects.Designer.cs",
+              "RelativeToolTip": "SmartphoneDefects\\FormDefects.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:41:17.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormDefects.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\SmartphoneDefects\\FormDefects.cs",
+              "RelativeDocumentMoniker": "SmartphoneDefects\\FormDefects.cs",
+              "ToolTip": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\SmartphoneDefects\\FormDefects.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SmartphoneDefects\\FormDefects.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:40:54.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\SmartphoneDefects\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "SmartphoneDefects\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\SmartphoneDefects\\MainForm.Designer.cs",
+              "RelativeToolTip": "SmartphoneDefects\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:38:05.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\SmartphoneDefects\\MainForm.cs",
+              "RelativeDocumentMoniker": "SmartphoneDefects\\MainForm.cs",
+              "ToolTip": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\SmartphoneDefects\\MainForm.cs",
+              "RelativeToolTip": "SmartphoneDefects\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:37:37.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Db.cs",
+              "DocumentMoniker": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\SmartphoneDefects\\Db.cs",
+              "RelativeDocumentMoniker": "SmartphoneDefects\\Db.cs",
+              "ToolTip": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\SmartphoneDefects\\Db.cs",
+              "RelativeToolTip": "SmartphoneDefects\\Db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:36:38.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\SmartphoneDefects\\Program.cs",
+              "RelativeDocumentMoniker": "SmartphoneDefects\\Program.cs",
+              "ToolTip": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\SmartphoneDefects\\Program.cs",
+              "RelativeToolTip": "SmartphoneDefects\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:35:45.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\SmartphoneDefects\\MainForm.cs",
+              "RelativeDocumentMoniker": "SmartphoneDefects\\MainForm.cs",
+              "ToolTip": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\SmartphoneDefects\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SmartphoneDefects\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:35:18.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormConnection.cs",
+              "DocumentMoniker": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\SmartphoneDefects\\FormConnection.cs",
+              "RelativeDocumentMoniker": "SmartphoneDefects\\FormConnection.cs",
+              "ToolTip": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\SmartphoneDefects\\FormConnection.cs",
+              "RelativeToolTip": "SmartphoneDefects\\FormConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:47:29.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormConnection.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\SmartphoneDefects\\FormConnection.cs",
+              "RelativeDocumentMoniker": "SmartphoneDefects\\FormConnection.cs",
+              "ToolTip": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\SmartphoneDefects\\FormConnection.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SmartphoneDefects\\FormConnection.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:42:17.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormConnection.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\SmartphoneDefects\\FormConnection.Designer.cs",
+              "RelativeDocumentMoniker": "SmartphoneDefects\\FormConnection.Designer.cs",
+              "ToolTip": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\SmartphoneDefects\\FormConnection.Designer.cs",
+              "RelativeToolTip": "SmartphoneDefects\\FormConnection.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T11:43:03.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormDefects.cs",
+              "DocumentMoniker": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\SmartphoneDefects\\FormDefects.cs",
+              "RelativeDocumentMoniker": "SmartphoneDefects\\FormDefects.cs",
+              "ToolTip": "C:\\Users\\loldi\\source\\repos\\SmartphoneDefects\\SmartphoneDefects\\FormDefects.cs",
+              "RelativeToolTip": "SmartphoneDefects\\FormDefects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T12:15:17.995Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
